@@ -1,0 +1,49 @@
+body {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: rgb(1, 1, 22);
+}
+
+
+header {
+    text-align: center;
+    color: green;
+}
+
+
+footer {
+    text-align: right;
+    height: 50px;
+    margin-top: 170px;
+}
+
+
+#img {
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+    padding: 25px;
+    border-radius: 300px;
+    margin-right: 90px;
+
+}
+
+#msg {
+    color: green;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    color: green;
+}
+article {
+    position: absolute;
+    margin-left: 900px;
+    color: white;
+    margin-top: 100px;
+    width: 200px;
+
+} 
